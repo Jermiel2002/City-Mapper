@@ -1,5 +1,7 @@
 # City-Mapper
 
++ l'ancien dépot contenait des fichiers vides
+
 The goal of the project is to design an application for public transport that uses a postgreSQL database to manage all the data.
 
 It's up to you the features to implement in your application—it is your choice, and your project !
